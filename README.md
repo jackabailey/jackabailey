@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jack, @jackabailey
+- 👋 Hi, I’m Jack ( @jackabailey )
 
 
 - 👀 I’m interested in ...
