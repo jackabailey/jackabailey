@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning ... 
     - Java,
     - Responsive Web Design,
-    - C,
+    - SwiftUI,
     - Machine Learning with Python
     
     
